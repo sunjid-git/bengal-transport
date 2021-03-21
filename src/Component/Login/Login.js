@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import './Login.css';
-import fb from '../Images/facebook.png';
+// import fb from '../Images/facebook.png';
 import google from '../Images/google.png';
 import './Login.css';
 

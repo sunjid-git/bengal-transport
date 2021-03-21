@@ -4,8 +4,7 @@ import './App.css';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import NoMatch from "./Component/NoMatch/NoMatch";
 import Header from "./Component/Header/Header";
