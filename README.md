@@ -1,4 +1,6 @@
-# Getting Started with Bengal Transport  [Live](https://keen-lewin-28a3ed.netlify.app/login)
+# Getting Started with Bengal Transport  
+
+[Live](https://keen-lewin-28a3ed.netlify.app/)
 
 This project was bootstrapped with React.
 
