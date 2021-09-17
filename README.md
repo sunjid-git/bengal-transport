@@ -19,4 +19,4 @@ IT has multiple service area
 2. React Router DOM
 3. Firebase
  
-### `Deployment - Firebase Hosting`
+### `Deployment - Netlify`
