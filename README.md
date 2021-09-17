@@ -1,6 +1,12 @@
-# Bengal Transport  [Live](https://keen-lewin-28a3ed.netlify.app/)
+# Bengal Transport  
+# [Live](https://keen-lewin-28a3ed.netlify.app/)
 
-## Bengal Transport
+## `Functionality`
+1. Home
+2. Destination
+3. Blog
+4. Contact
+5. Login
 
 IT has multiple service area
 1. Bus
@@ -8,9 +14,9 @@ IT has multiple service area
 3. Bike
 4. Car
 
-## User Guide
-User has to choose a certain vehicle and by logging in the user can browse and choose wanted route.
-Site is in progress because the developer has gone crazy. Above all beloved Brother Jhankar Mahbub is not only running he is in rocketing speed with this newbie web developer.
-
-### This project was not only built on React but also with ultimate mental pressure.
+### `Tech Stack`
+1. React.js
+2. React Router DOM
+3. Firebase
+ 
 
